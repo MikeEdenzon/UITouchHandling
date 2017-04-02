@@ -12,7 +12,6 @@ import UIKit
 class InteractiveView: UIView {
     
     var circle: Circle!
-    var moveable = false
     
     override init(frame: CGRect) {
         super.init(frame: frame)
